@@ -1,6 +1,6 @@
 # cipher_techniques
 ## This a Program that Cipher and Dicipher Message Using 10 Techniques:
-[1] Affine Cipher__
+[1] Affine Cipher <br />
 [2] Caesar Cipher__
 [3] Atbash Cipher__
 [4] Vignere Cipher__
